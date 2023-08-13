@@ -13,7 +13,7 @@
     <url>https://github.com/alibaba/Sentinel</url>
     <licenses>
         <license>
-            <name>Apache License, Version 3.0</name>
+            <name>Apache License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0</url>
             <distribution>repo</distribution>
         </license>
